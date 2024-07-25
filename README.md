@@ -1,4 +1,6 @@
-# Kekwy
+# 可弟WZ
+
+> 二阶铃图、Kekwy、Ke_DiWZ
 
 <p>
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Kekwy&count_private=true&show_icons=true&theme=ambient_gradient"  alt=""/>
